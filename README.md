@@ -1,4 +1,3 @@
-# owasp-top-10-serverless
-How OWASP Top 10 (2017) Stack up in Serverless
+# OWASP SERVERLESS TOP 10
 
-**Coming Soon!**
+Project move to https://github.com/OWASP/Serverless-Top-10-Project
